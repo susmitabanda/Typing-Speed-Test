@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body{
-     @apply bg-green-50;
+     @apply bg-slate-900;
 }
